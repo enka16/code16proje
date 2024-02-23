@@ -19,7 +19,7 @@ module.exports = {
 }
 
 
-npm install react-router-dom localforage match-sorter sort-by
+npm install react-router-dom localforage match-sorter sort-by 
 
 
 npm install react-slick --save
