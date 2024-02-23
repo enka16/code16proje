@@ -36,3 +36,5 @@ Site Ana Sayfa, Eğitim, Sağlık ve Ulaşım olmak üzere 4 sayfadan oluşmakta
 - Ulaşım bölümü excel dosyalarını okumak için tasarlanmıştır. Veri klasöründe bulunan excel dosyalarını kullanınız. Yüklediğiniz excel dosyasından istediğiniz bilgiyi arama bölümünden bulabilirsiniz.
 
 Projenin tamamı için:  https://drive.google.com/file/d/1k3bl7J6OldgxPFwNbP0cJ36hHBRhS4LD/view?usp=drive_link
+
+Vercel Link:  https://vercel.com/enes-kayas-projects/code16proje
