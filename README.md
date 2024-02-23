@@ -34,3 +34,5 @@ Site Ana Sayfa, Eğitim, Sağlık ve Ulaşım olmak üzere 4 sayfadan oluşmakta
 - Eğitim bölümünde veri klasöründe bulunan data.json dan alınan ana kucağı merkezlerine ait bilgiler bulunmakta.
 - Sağlık bölümünde veri klasöründe bulunan eczane.json dan alınan nöbetçi eczane bilgileri yer almaktadır. Bu sayfada bulunan arama bölümünde istenilen ilçe büyük harfle yazılarak arama yapılabilir.
 - Ulaşım bölümü excel dosyalarını okumak için tasarlanmıştır. Veri klasöründe bulunan excel dosyalarını kullanınız. Yüklediğiniz excel dosyasından istediğiniz bilgiyi arama bölümünden bulabilirsiniz.
+
+Projenin tamamı için:  https://drive.google.com/file/d/1k3bl7J6OldgxPFwNbP0cJ36hHBRhS4LD/view?usp=drive_link
