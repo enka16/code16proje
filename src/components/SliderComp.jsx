@@ -1,5 +1,10 @@
 import React from 'react'
 import Slider from 'react-slick';
+import ulucamii from '.././resim/bursa-ulu-camii-fotograf.jpg';
+import cumalikizik from '.././resim/cumalıkızık.jpg'; 
+import uludag from '.././resim/uludag.jpg';
+import fetihmuze from '.././resim/fetihmuze2_.jpg';
+import emirsultan from '.././resim/emirsultan.jpg';
 
 const SliderComp = () => {
     var settings = {
@@ -20,7 +25,7 @@ const SliderComp = () => {
             <a href='http://www.bursa.gov.tr/ulucami' target='_blank' className='border rounded-full cursor-pointer hover:bg-green-500 text-2xl w-[200px] h-16 flex items-center justify-center bg-gray-200'>İncele</a>
             </div>
         </div>
-      <img className='h-[400px] w-[800px]' src="src\resim\bursa-ulu-camii-fotograf.jpg" alt="" />
+      <img className='h-[400px] w-[800px]' src={ulucamii} alt="" />
     </div>
     <div className='!flex items-center bg-gray-100 px-6'>
         <div>
@@ -29,7 +34,7 @@ const SliderComp = () => {
             <a href='https://www.bursa.com.tr/tr/mekan/cumalikizik-koyu-103/' target='_blank' className='border rounded-full cursor-pointer hover:bg-green-500 text-2xl w-[200px] h-16 flex items-center justify-center bg-gray-200'>İncele</a>
             </div>
         </div>
-      <img className='h-[400px] w-[800px]' src="src\resim\cumalıkızık.jpg" alt="" />
+      <img className='h-[400px] w-[800px]' src={cumalikizik} alt="" />
     </div>
     <div className='!flex items-center bg-gray-100 px-6'>
         <div>
@@ -38,7 +43,7 @@ const SliderComp = () => {
             <a href='https://www.gotobursa.com.tr/tr/mekan/teleferik-ile-uludag-531/' target='_blank' className='border rounded-full cursor-pointer hover:bg-green-500 text-2xl w-[200px] h-16 flex items-center justify-center bg-gray-200'>İncele</a>
             </div>
         </div>
-      <img className='h-[400px] w-[800px]' src="src\resim\uludag.jpg" alt="" />
+      <img className='h-[400px] w-[800px]' src={uludag} alt="" />
     </div>
     <div className='!flex items-center bg-gray-100 px-6'>
         <div>
@@ -47,7 +52,7 @@ const SliderComp = () => {
             <a href='https://panorama1326.com.tr' target='_blank' className='border rounded-full cursor-pointer hover:bg-green-500 text-2xl w-[200px] h-16 flex items-center justify-center bg-gray-200'>İncele</a>
             </div>
         </div>
-      <img className='h-[400px] w-[800px]' src="src\resim\fetihmuze2_.jpg" alt="" />
+      <img className='h-[400px] w-[800px]' src={fetihmuze} alt="" />
     </div>
     <div className='!flex items-center bg-gray-100 px-6'>
         <div>
@@ -56,7 +61,7 @@ const SliderComp = () => {
             <a href='http://www.yildirim.gov.tr/emir-sultan-camii' target='_blank' className='border rounded-full cursor-pointer hover:bg-green-500 text-2xl w-[200px] h-16 flex items-center justify-center bg-gray-200'>İncele</a>
             </div>
         </div>
-      <img className='h-[400px] w-[800px]' src="src\resim\emirsultan.jpg" alt="" />
+      <img className='h-[400px] w-[800px]' src={emirsultan} alt="" />
     </div>
     </Slider>
     </div>
